@@ -1,3 +1,5 @@
+
+
 img {
   border-radius: 50%;
   width: 35%;
@@ -18,12 +20,31 @@ img {
   text-align: center;
 }
 
+.well-first {
+  margin-top: 50px;
+}
+
 .intro-projects {
   text-align: center;
+  padding-top: 8px;
+  padding-bottom: 40px;
 }
 
 .project {
   text-align: center;
-  padding: 10px;
-  border: 2px solid black;
+  padding: 50px;
+  background-color: #f9fbed;
+}
+
+.footer {
+  margin-top: 100px;
+}
+
+.col-md-4 {
+  margin-left: auto;
+  margin-bottom: 30px;
+}
+
+a {
+  color: #d88f6f;
 }
