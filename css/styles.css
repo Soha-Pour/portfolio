@@ -1,5 +1,27 @@
 img {
   border-radius: 50%;
-  width: 22%;
+  width: 35%;
   height: auto;
+  float: left;
+  padding-right: 30px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.jumbotron h1 {
+  font-size: 100px;
+  text-align: center;
+}
+
+.jumbotron h2 {
+  text-align: center;
+}
+
+.intro-projects {
+  text-align: center;
+}
+
+#title-projects {
+  text-decoration: overline;
 }
