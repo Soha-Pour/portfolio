@@ -22,6 +22,8 @@ img {
   text-align: center;
 }
 
-#title-projects {
-  text-decoration: overline;
+.project {
+  text-align: center;
+  padding: 10px;
+  border: 2px solid black;
 }
