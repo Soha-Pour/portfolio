@@ -51,6 +51,10 @@ img {
   color: white;
 }
 
+.emphasis {
+  font-style: italic;
+}
+
 .footer {
   margin-top: 100px;
   color: #2d333f;
