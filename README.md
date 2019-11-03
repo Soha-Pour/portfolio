@@ -10,8 +10,8 @@ This website is my personal programming portfolio. It contains an "About me" sec
 
 ## Setup/Installation Requirements
 
-* Clone the repo onto your personal machine
-* Create a branch
+* Clone the repo onto your personal machine using https://github.com/Soha-Pour/portfolio.git
+* Create a branch and code away
 
 ## Known Bugs
 
@@ -27,4 +27,5 @@ HLML, CSS, and bootstrap
 
 ### License
 
+MIT license
 Copywrite (c) 2019
