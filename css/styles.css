@@ -1,4 +1,4 @@
-img {
+img.profile {
   border-radius: 50%;
   width: 35%;
   height: auto;
@@ -20,6 +20,10 @@ img {
 }
 
 .well-first {
+  margin-top: 50px;
+}
+
+.well-second {
   margin-top: 50px;
 }
 
@@ -72,4 +76,11 @@ img {
 
 a {
   color: #d88f6f;
+}
+
+img.me-working {
+  border-radius: 50%;
+  width: 60%;
+  height: auto;
+  float: right;
 }
